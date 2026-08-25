@@ -54,7 +54,7 @@
   </tr>
 </table> -->
 
-<table align="center" width="100%">
+<!-- <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
       <img
@@ -71,7 +71,7 @@
       />
     </td>
   </tr>
-</table>
+</table> -->
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
