@@ -88,10 +88,10 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/kaiser-fx/kaiser-fx/main/profile-3d-contrib/profile-gitblock.svg" alt="3D Git-Block View" width="100%" />
+      <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Git-Block View" width="100%" />
     </td>
     <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/kaiser-fx/kaiser-fx/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Night Rainbow View" width="100%" />
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Night Rainbow View" width="100%" />
     </td>
   </tr>
 </table>
