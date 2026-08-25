@@ -83,9 +83,5 @@
   </picture>
 </div>
 
-<h2 align="center">👾 Retro Pixel Activity Graph</h2>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaiser-fx&theme=react-dark&hide_border=true&area=true&height=180" alt="Activity Wave Graph" width="100%" />
-</div>
 
