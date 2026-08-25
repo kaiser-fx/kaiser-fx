@@ -83,12 +83,6 @@
   </picture>
 </div>
 
-<h2 align="center">🧊 3D Contribution Graph</h2>
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-</div>
-
 <h2 align="center">👾 Retro Pixel Activity Graph</h2>
 
 <div align="center">
