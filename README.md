@@ -83,18 +83,11 @@
   </picture>
 </div>
 
-<h2 align="center">🧊 Isometric 3D Git-Blocks & Skyline</h2>
+<h2 align="center">🧊 3D Contribution Graph</h2>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Git-Block View" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Night Rainbow View" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</div>
 
 <h2 align="center">👾 Retro Pixel Activity Graph</h2>
 
