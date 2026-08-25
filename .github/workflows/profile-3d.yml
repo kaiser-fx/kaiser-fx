@@ -22,6 +22,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Optimize and Straighten 3D SVGs
+        run: |
+          python .github/scripts/optimize_3d.py
       - name: Commit & Push changes
         run: |
           git config user.name github-actions
